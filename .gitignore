@@ -1,0 +1,16 @@
+# Figures
+*.pdf
+# Models
+*.model
+# Data
+*.csv
+# python class
+__pycache__/*
+# notebok checkpoints
+.ipynb_checkpoints/*
+# cache
+cache/*
+# logs
+*.txt
+# metadata
+*.npy
